@@ -1,2 +1,2 @@
-# Prompt-Engineering
-This is Prompt engineering repo
+# Prompt-Engineering-101
+
