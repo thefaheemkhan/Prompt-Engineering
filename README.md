@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 Prompt Engineering 101
+# 🧠 Prompt Engineering 101 
 
 ### The Complete Open-Source Roadmap to Mastering Prompt Engineering
 
