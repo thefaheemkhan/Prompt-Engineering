@@ -1,7 +1,7 @@
 <div align="center">
  
 # 🧠 Prompt Engineering 101 
-
+ 
 ### The Complete Open-Source Roadmap to Mastering Prompt Engineering
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
